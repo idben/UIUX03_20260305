@@ -2,6 +2,10 @@
   height: 250px;
 }
 
+.h300px {
+  height: 300px;
+}
+
 aside .nav .nav-link.active {
   border-bottom: 3px solid #0c86eb;
 }
